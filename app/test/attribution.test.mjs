@@ -1,4 +1,4 @@
-// The ISCO-08 attribution (AWAI-3629) renders in the about view with the
+// The ISCO-08 attribution (AWAI-3629, final wording) renders in the about view with the
 // repository's own code. The code comes from the repository name, as
 // build.mjs derives it into dist/data.js, and is checked against
 // blueprint.edn, so this file stays the same in every series repository.
@@ -12,8 +12,8 @@ import { TAB_ABOUT, TAB_OVERVIEW, attributionFor, panelTree } from "../src/view.
 
 const APP = fileURLToPath(new URL("../", import.meta.url));
 
-const ja = (code) => `職業分類: ISCO-08（国際労働機関 ILO）のコード ${code} を参照。この app は ILO が作成・確認・推奨したものではありません。`;
-const en = (code) => `Occupation reference: ISCO-08 (International Labour Organization), code ${code}. This app is not produced, reviewed or endorsed by the ILO.`;
+const ja = (code) => `職業の参照: ISCO-08（国際労働機関 ILO、2012 年）のコード ${code}。日本語の名称は当方の訳です。この app は ILO が作成・確認・推奨したものではありません。`;
+const en = (code) => `Occupation reference: ISCO-08 (International Labour Organization, 2012), code ${code}. This app is not produced, reviewed or endorsed by the ILO.`;
 
 const texts = (tree) => {
   const out = [];

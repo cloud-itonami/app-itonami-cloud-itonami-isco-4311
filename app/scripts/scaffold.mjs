@@ -19,6 +19,7 @@ const HERE = fileURLToPath(new URL("../", import.meta.url));
 export const TEMPLATE_FILES = [
   ".gitignore",
   "README.md",
+  "android/MainActivity.kt",
   "scripts/android-apk.sh",
   "scripts/build.mjs",
   "scripts/console.mjs",
@@ -40,6 +41,7 @@ export const TEMPLATE_FILES = [
   "test/build.test.mjs",
   "test/console.test.mjs",
   "test/identity.test.mjs",
+  "test/release-source.test.mjs",
   "test/scaffold.test.mjs",
   "test/view.test.mjs",
   "vendor/PINS.json",
