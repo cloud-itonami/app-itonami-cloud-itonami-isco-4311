@@ -678,3 +678,8 @@ gated behind the governor's verdict.
 
 AGPL-3.0-or-later, forkable by any qualified operator. Part of the
 [cloud-itonami](https://itonami.cloud) open business fleet.
+
+## Attribution / 出典
+
+- 職業分類: ISCO-08（国際労働機関 ILO）のコード 4311 を参照。この app は ILO が作成・確認・推奨したものではありません。
+- Occupation reference: ISCO-08 (International Labour Organization), code 4311. This app is not produced, reviewed or endorsed by the ILO.

@@ -36,6 +36,7 @@ export const TEMPLATE_FILES = [
   "src-tauri/capabilities/main.json",
   "src-tauri/src/lib.rs",
   "src-tauri/src/main.rs",
+  "test/attribution.test.mjs",
   "test/build.test.mjs",
   "test/console.test.mjs",
   "test/identity.test.mjs",

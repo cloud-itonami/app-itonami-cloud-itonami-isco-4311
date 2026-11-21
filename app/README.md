@@ -22,7 +22,11 @@ sources:
 - 物理仕様: the `physics.edn` cases, shown only when the repository has
   `physics.edn`.
 - この app について: id, version, source digests, and the statement that
-  the app performs no external communication.
+  the app performs no external communication. For an ISCO-08 repository it
+  also shows the ISCO-08 attribution (ja and en: source, code, and that the
+  app is not produced, reviewed or endorsed by the ILO), built from the
+  repository's own code, never from a per-repository literal. No ILO logo
+  or ILO imagery.
 
 The selected tab is remembered in localStorage; the app still renders when
 storage throws.
