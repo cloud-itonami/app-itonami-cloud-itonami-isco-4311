@@ -1,4 +1,6 @@
 # cloud-itonami-isco-4311
+Occupation reference: ISCO-08 (International Labour Organization, 2012), code 4311. This app is not produced, reviewed or endorsed by the ILO.
+職業の参照: ISCO-08（国際労働機関 ILO、2012 年）のコード 4311。日本語の名称は当方の訳です。この app は ILO が作成・確認・推奨したものではありません。
 
 **Community Bookkeeping Service** — the ISCO-08 4311 (Accounting and
 Bookkeeping Clerks) actor, an ISCO **Wave 0 (cognitive substrate)**
@@ -678,8 +680,3 @@ gated behind the governor's verdict.
 
 AGPL-3.0-or-later, forkable by any qualified operator. Part of the
 [cloud-itonami](https://itonami.cloud) open business fleet.
-
-## Attribution / 出典
-
-- 職業分類: ISCO-08（国際労働機関 ILO）のコード 4311 を参照。この app は ILO が作成・確認・推奨したものではありません。
-- Occupation reference: ISCO-08 (International Labour Organization), code 4311. This app is not produced, reviewed or endorsed by the ILO.
